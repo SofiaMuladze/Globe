@@ -1,0 +1,32 @@
+.nav {
+    height: 50px;
+    padding: 20px 80px;
+    padding-bottom: 10px;
+    background-color: #1b1b1b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .nav-logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img {
+            width: 200px;
+        }
+    }
+    .nav-category {
+        display: flex;
+        color: #fff;
+        h3 {
+            margin: 0 30px;
+        }
+        a {
+            text-decoration: none;
+            color: #fff;
+        }
+        a:focus,:hover{
+            color: #03B2A4;
+            
+        }
+    }
+}

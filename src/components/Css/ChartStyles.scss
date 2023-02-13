@@ -1,0 +1,29 @@
+
+
+.chart-card {
+    margin: 10px 100px;
+    padding: 10px;
+    background-color: #1b1b1b;
+    border: 1px solid #034A45;
+    border-radius: 15px;
+    
+    .chart-title {
+        color: #03B2A4;
+        font-size: 20px;
+        h1 {
+            margin: 10px;
+        }
+    }
+    .chart {
+        background-color: #222222;
+        padding: 30px;
+        border-radius: 15px;
+        margin: 10px 50px;
+
+    }
+    .chart-info {
+        color: #666666;
+        font-size: 10px;
+        padding: 5px 50px;
+    }
+}
