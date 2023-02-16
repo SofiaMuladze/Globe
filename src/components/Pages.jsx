@@ -13,6 +13,7 @@ function Pages() {
   return (
     <Routes>
         <Route path="/Home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/Methane" element={<Methane />} />
         <Route path="/PolarIce" element={<PolarIce />} />
         <Route path="/Nitrous" element={<Nitrous />} />

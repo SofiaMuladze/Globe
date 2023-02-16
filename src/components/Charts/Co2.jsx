@@ -94,10 +94,10 @@ function Co2 () {
             />
         </div>
         <div className="chart-info">
-            <h3>For thousands of years, the natural concentration of CO2 in earth atmosphere was around 280 ppm.
+            <h4>For thousands of years, the natural concentration of CO2 in earth atmosphere was around 280 ppm.
                 From the beginning of the industrial revolution, human activities like the burning of fossil fuels,
                 deforestation, and livestock have increased this amount by more than 30%.
-            </h3>
+            </h4>
         </div>
     </div>
     </>

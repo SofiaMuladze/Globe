@@ -100,13 +100,13 @@ function Temperature () {
             />
         </div>
         <div className="chart-info">
-            <h3>The current global warming rate is not natural. 
+            <h4>The current global warming rate is not natural. 
                 From 1880 to 1981 was (0.07°C / 0.13°F) per decade. 
                 Since 1981 this rate has increased to (0.18°C / 0.32°F) Climate Change: Global Temperature.
                 Some of the past sudden increase on global temperature present in this graph, correspond to 
                 the Roman Warm Period and the Medieval Warm Period. These events were at regional and not global scale. 
                 AR4 Climate Change 2007: The Physical Science Basis .
-            </h3>
+            </h4>
         </div>
     </div>
     </>

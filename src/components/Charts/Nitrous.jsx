@@ -95,10 +95,10 @@ function Nitrous () {
             />
         </div>
         <div className="chart-info">
-            <h3>Nitrous oxide is a gas that is produced by the combustion of fossil fuel and solid waste, 
+            <h4>Nitrous oxide is a gas that is produced by the combustion of fossil fuel and solid waste, 
                 nitrogen-base fertilizers, sewage treatment plants, natural processes, and other agricultural and industrial activities.
                 It is the third largest heat-trapping gas in the atmosphere and the biggest ozone-destroying compound emitted by human activities.
-            </h3>
+            </h4>
         </div>
     </div>
     </>

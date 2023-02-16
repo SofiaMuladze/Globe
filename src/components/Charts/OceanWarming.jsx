@@ -100,11 +100,11 @@ function OceanWarming () {
             />
         </div>
         <div className="chart-info">
-            <h3>The Co2 we produce is absorbed and dissolved into the ocean, making it more acidic. 
+            <h4>The Co2 we produce is absorbed and dissolved into the ocean, making it more acidic. 
                 The ocean is also suffering from deoxygenation, due to contamination and global warming, making it less habitable for marine organism.
                 The ocean modulates earth temperature. It takes up most of the excess heat that we humans produce, making it warmer, and as result,
                 less able to absorb heat. Without the ocean temperature regulatory effect, the global average temperature would be around 50 degrees Celsius instead of 15.
-            </h3>
+            </h4>
         </div>
     </div>
     </>

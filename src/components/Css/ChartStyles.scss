@@ -1,7 +1,5 @@
-
-
 .chart-card {
-    margin: 10px 100px;
+    margin: 100px;
     padding: 10px;
     background-color: #1b1b1b;
     border: 1px solid #034A45;
@@ -25,5 +23,50 @@
         color: #666666;
         font-size: 10px;
         padding: 5px 50px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .chart-card {
+        margin: 100px 50px;
+        .chart-title {
+            font-size: 20px;
+        }
+        .chart {
+            padding: 30px;
+            margin: 10px 50px;
+    
+        }
+    }
+    
+}
+@media (max-width: 768px) {
+    .chart-card {
+        .chart-title {
+            font-size: 18px;
+        }
+        .chart {
+            padding: 20px;
+            margin: 10px 30px;
+        }
+        .chart-info {
+            padding: 5px 30px;
+        }
+    }
+}
+@media (max-width: 576px) {
+    .chart-card {
+        margin: 100px 20px;
+        .chart-title {
+            font-size: 15px;
+        }
+        .chart {
+            padding: 10px;
+            margin: 10px;
+        }
+        .chart-info {
+            padding: 5px 10px;
+        }
     }
 }

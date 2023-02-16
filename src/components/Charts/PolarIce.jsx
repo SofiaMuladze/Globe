@@ -98,11 +98,11 @@ function PolarIce () {
             />
         </div>
         <div className="chart-info">
-            <h3>The arctic is warming around twice as fast as global average.
+            <h4>The arctic is warming around twice as fast as global average.
                 Some of the reasons for this are: The arctic amplification, the albedo effect, and black carbon. 
                 From 1979 to 1996, we lost 2.2 – 3% of the arctic ice cover. From 2010 to present we are losing 12.85% per decade!
                 Another consequence is permafrost thawing. This is a process in which large amounts of methane is released to the atmosphere, fueling more the process of global warming.
-            </h3>
+            </h4>
         </div>
     </div>
     </>

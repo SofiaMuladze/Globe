@@ -94,13 +94,13 @@ function Methane () {
             />
         </div>
         <div className="chart-info">
-            <h3>Methane is a flammable gas formed by geological and biological processes.
+            <h4>Methane is a flammable gas formed by geological and biological processes.
                 Some of the natural ones are leaks from natural gas systems and wetlands.
                 50-65% of total global methane emissions come from human activities. These include livestock, agriculture, 
                 oil and gas systems, waste from homes and businesses, landfills, and so on.
                 Methane is a gas with a global warming potential several times stronger than of CO2. For more than 650,000 
                 years, methane concentration in the atmosphere was between 350 – 800 ppb. From the beginning of the industrial revolution, human activities have increased this amount by around 150%.
-            </h3>
+            </h4>
         </div>
     </div>
     </>
