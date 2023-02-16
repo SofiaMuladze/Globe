@@ -14,7 +14,7 @@ function NavBar() {
     <div className='nav-bg'>
       <div className='navbar'>
         <div className='nav-logo'>
-            <Link to={"/Home"}>
+            <Link to={"/Globe"}>
               <img src={Logo} alt="Globe logo" />
             </Link>
           </div>
